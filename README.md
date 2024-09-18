@@ -37,7 +37,7 @@ The main function constructs the desired parameters and the graph model for the 
       Output result:
        ![image](https://github.com/user-attachments/assets/e966408a-6147-4df2-8a5c-9f914e32cdcd)
     (3). Implementing Vaccination Policy:
-      In this policy, we introduced a new variable, vaccinationRate, and during the tracing of             nodes, each node in the SUSCEPTIBLE state has a certain probability (1%) of changing to the          VACCINATED state. This allows us to simulate the scenario where some nodes automatically             receive vaccinations during the disease transmission process, reducing their chances of              becoming infected and helping control the spread of the disease.
+      In this policy, we introduced a new variable, vaccinationRate, and during the tracing of nodes, each node in the SUSCEPTIBLE state has a certain probability 1% of changing to the  VACCINATED state. This allows us to simulate the scenario where some nodes automatically receive vaccinations during the disease transmission process, reducing their chances of becoming infected and helping control the spread of the disease.
    ![image](https://github.com/user-attachments/assets/36e6c720-ebe4-4f1e-9ecc-4a430c49f893)
    ![image](https://github.com/user-attachments/assets/3aefa481-3251-4b77-bc04-4e4ac37201ec)
    ![image](https://github.com/user-attachments/assets/559f0d9c-c6bb-4819-895c-ed785fe21805)
@@ -62,7 +62,8 @@ For SUSCEPTIBLE nodes, there is a 1% chance each day that they will transition t
     ![image](https://github.com/user-attachments/assets/449d061b-0269-422d-b0cc-4238d92b2ae8)
 
     Output result:
-     ![image](https://github.com/user-attachments/assets/076654cd-7338-46d8-a9a2-bab49f606e29)
+        ![image](https://github.com/user-attachments/assets/3fc68f69-0789-4daa-a664-c30bc99af01e)
+
 
        
 
