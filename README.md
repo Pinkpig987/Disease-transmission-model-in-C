@@ -60,9 +60,9 @@ For SUSCEPTIBLE nodes, there is a 1% chance each day that they will transition t
     ![image](https://github.com/user-attachments/assets/22d9d4c2-79fa-4e3d-bdab-e89c6b84c34d)
     ![image](https://github.com/user-attachments/assets/21fa4d8a-89dd-4d5b-83c7-1f39a1b2507d)
     ![image](https://github.com/user-attachments/assets/449d061b-0269-422d-b0cc-4238d92b2ae8)
-
     Output result:
-        ![image](https://github.com/user-attachments/assets/eecb596b-a6fe-4dd5-88e0-d91ad88988cf)
+      ![image](https://github.com/user-attachments/assets/88ad66ca-68e0-4587-8928-4481031b3739)
+
 
 
 
